@@ -1,5 +1,0 @@
-#CONTENEDOR KERBEROS 
-
-
-
-hola amigo
