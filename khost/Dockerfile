@@ -1,5 +1,5 @@
 From fedora:27
-RUN dnf -y install  krb5-server krb5-workstation krb5-libs
+RUN dnf -y install krb5-workstation
 RUN mkdir /opt/docker
 COPY * /opt/docker/
 WORKDIR /opt/docker
